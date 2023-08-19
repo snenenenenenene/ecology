@@ -73,3 +73,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Mm]odels/*
 /[Aa]ssets/[Mm]aterials/*
 /[Aa]ssets/[Tt]extMesh Pro/*
+
+*.DS_Store
